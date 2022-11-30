@@ -30,5 +30,8 @@
       "lat": "10.72",
       "long": "106.68"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
